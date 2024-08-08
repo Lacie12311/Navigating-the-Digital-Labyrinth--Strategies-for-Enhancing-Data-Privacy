@@ -1,0 +1,44 @@
+﻿ID,Start time,Completion time,Email,Name,Last modified time,"
+How familiar are you with the concepts of data privacy and cybersecurity?
+
+",How concerned are you about the security of your personal data online? ,"
+In your opinion, how significant is the impact of data privacy breaches on individuals' lives?
+
+","
+How responsible do you feel companies are for protecting the data privacy of their users?
+
+",How confident are you in the effectiveness of current laws and regulations in protecting data privacy and security?,"
+How often do you feel that companies or websites compromise your data privacy for their benefit?
+
+","
+What measures do you take to protect your data privacy online? (Select all that apply)
+
+","
+For which of the following purposes would you be most willing to share your personal data with companies or organizations? (Select all that apply)
+
+","
+How familiar are you with your rights regarding data privacy and how to exercise them?
+
+","
+Which of the following areas related to data privacy and security concerns you the most for the future?
+
+"
+1,4/15/24 17:25:32,4/15/24 17:33:55,anonymous,,,Not very familiar,Somewhat concerned,Extremely significant,Somewhat responsible,Somewhat confident,Occasionally,Not sharing personal info online;Regularly updating software;Use of strong passwords;,Personalized services;I prefer not to share my data for any purpose;,Not very familiar,Increasing sophistication of cyber attacks
+2,4/15/24 17:36:09,4/15/24 17:47:19,anonymous,,,Not very familiar,Very concerned,Extremely significant,Very responsible,Not very confident,Frequently,Use of strong passwords;Regularly updating software;,I prefer not to share my data for any purpose;,Not familiar at all,Misuse of AI in handling personal data
+3,4/15/24 17:50:58,4/15/24 17:52:24,anonymous,,,Not very familiar,Very concerned,Moderately significant,Very responsible,Somewhat confident,Occasionally,Use of strong passwords;Regularly updating software;Not sharing personal info online;Utilizing privacy settings on social media and apps;,Public health or safety;,Somewhat familiar,Increasing sophistication of cyber attacks
+4,4/15/24 17:50:07,4/15/24 17:53:43,anonymous,,,Somewhat familiar,Very concerned,Moderately significant,Very responsible,Not very confident,Frequently,Use of strong passwords;Not sharing personal info online;Utilizing privacy settings on social media and apps;,I prefer not to share my data for any purpose;,Somewhat familiar,Misuse of AI in handling personal data
+5,4/15/24 18:23:52,4/15/24 18:25:52,anonymous,,,Not familiar at all,Slightly concerned,Extremely significant,Very responsible,Not very confident,Frequently,Use of strong passwords;Not sharing personal info online;Utilizing privacy settings on social media and apps;,Personalized services;,Not familiar at all,Misuse of AI in handling personal data
+6,4/15/24 20:09:20,4/15/24 20:10:40,anonymous,,,Not very familiar,Very concerned,Extremely significant,Very responsible,Not very confident,Frequently,Not sharing personal info online;Using VPNs;Utilizing privacy settings on social media and apps;Regularly updating software;Use of strong passwords;,Public health or safety;Marketing offers;,Not very familiar,Misuse of AI in handling personal data
+7,4/15/24 20:08:53,4/15/24 20:12:07,anonymous,,,Very familiar,Very concerned,Extremely significant,Very responsible,Not very confident,Occasionally,Use of strong passwords;Using VPNs;Not sharing personal info online;Utilizing privacy settings on social media and apps;Regularly updating software;,I prefer not to share my data for any purpose;,Very familiar,Misuse of AI in handling personal data
+8,4/15/24 20:23:25,4/15/24 20:24:23,anonymous,,,Somewhat familiar,Somewhat concerned,Extremely significant,Slightly responsible,Not very confident,Occasionally,Use of strong passwords;,Personalized services;Research and development;Public health or safety;,Somewhat familiar,Increasing sophistication of cyber attacks
+9,4/15/24 20:41:15,4/15/24 20:43:43,anonymous,,,Not very familiar,Somewhat concerned,Moderately significant,Somewhat responsible,Somewhat confident,Occasionally,Use of strong passwords;Not sharing personal info online;Utilizing privacy settings on social media and apps;,Public health or safety;,Very familiar,Expansion of surveillance technologies
+10,4/15/24 20:47:51,4/15/24 20:51:01,anonymous,,,Very familiar,Very concerned,Extremely significant,Very responsible,Not very confident,Occasionally,Use of strong passwords;Regularly updating software;Not sharing personal info online;Utilizing privacy settings on social media and apps;,Public health or safety;Personalized services;,Somewhat familiar,Misuse of AI in handling personal data
+11,4/15/24 20:49:21,4/15/24 20:51:32,anonymous,,,Not very familiar,Very concerned,Extremely significant,Very responsible,Not confident at all,Frequently,Use of strong passwords;Regularly updating software;Using VPNs;Not sharing personal info online;Utilizing privacy settings on social media and apps;,I prefer not to share my data for any purpose;,Somewhat familiar,Misuse of AI in handling personal data
+12,4/15/24 20:55:12,4/15/24 20:58:15,anonymous,,,Not very familiar,Very concerned,Extremely significant,Very responsible,Not very confident,Occasionally,Use of strong passwords;Regularly updating software;Not sharing personal info online;Utilizing privacy settings on social media and apps;,Research and development;Personalized services;,Not familiar at all,Increasing sophistication of cyber attacks
+13,4/15/24 21:11:53,4/15/24 21:12:52,anonymous,,,Very familiar,Somewhat concerned,Extremely significant,Not responsible at all,Not very confident,Frequently,Use of strong passwords;Regularly updating software;Not sharing personal info online;Utilizing privacy settings on social media and apps;,Personalized services;Public health or safety;,Not familiar at all,Misuse of AI in handling personal data
+14,4/15/24 21:11:44,4/15/24 21:14:05,anonymous,,,Somewhat familiar,Very concerned,Extremely significant,Very responsible,Not very confident,Frequently,Use of strong passwords;Not sharing personal info online;Utilizing privacy settings on social media and apps;,I prefer not to share my data for any purpose;Public health or safety;,Not very familiar,Increasing sophistication of cyber attacks
+15,4/15/24 21:49:21,4/15/24 21:51:38,anonymous,,,Not very familiar,Slightly concerned,Extremely significant,Very responsible,Not very confident,Occasionally,Use of strong passwords;Not sharing personal info online;Utilizing privacy settings on social media and apps;,I prefer not to share my data for any purpose;,Not familiar at all,Misuse of AI in handling personal data
+16,4/15/24 23:33:07,4/15/24 23:36:25,anonymous,,,Not very familiar,Very concerned,Extremely significant,Very responsible,Not very confident,Occasionally,Use of strong passwords;Using VPNs;Utilizing privacy settings on social media and apps;Regularly updating software;,I prefer not to share my data for any purpose;,Not very familiar,Increasing sophistication of cyber attacks
+17,4/16/24 0:05:10,4/16/24 0:07:10,anonymous,,,Somewhat familiar,Very concerned,Extremely significant,Very responsible,Not very confident,Frequently,Use of strong passwords;Regularly updating software;Not sharing personal info online;Utilizing privacy settings on social media and apps;,Public health or safety;Research and development;Personalized services;,Not very familiar,Misuse of AI in handling personal data
+18,4/16/24 12:55:26,4/16/24 12:57:36,anonymous,,,Not very familiar,Very concerned,Extremely significant,Somewhat responsible,Somewhat confident,Occasionally,Use of strong passwords;Regularly updating software;Not sharing personal info online;Utilizing privacy settings on social media and apps;,I prefer not to share my data for any purpose;,Not very familiar,Increasing sophistication of cyber attacks
+19,4/16/24 13:37:11,4/16/24 13:43:38,anonymous,,,Somewhat familiar,Very concerned,Extremely significant,Somewhat responsible,Not very confident,Frequently,Not sharing personal info online;,I prefer not to share my data for any purpose;,Not familiar at all,Increasing sophistication of cyber attacks
